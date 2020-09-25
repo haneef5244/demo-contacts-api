@@ -51,3 +51,6 @@ This endpoint can be queried with the following query parameters:
 3) number - e.g : https://airasia-demo-contacts-api.herokuapp.com/contacts?contact.number=0176646603
 
 Any combination of the above 3 query parameters works, an invalid query parameter will throw an error
+
+Demo video
+https://www.youtube.com/embed/_hsxirtlE14
