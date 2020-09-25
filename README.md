@@ -53,4 +53,6 @@ This endpoint can be queried with the following query parameters:
 Any combination of the above 3 query parameters works, an invalid query parameter will throw an error
 
 Demo video
-https://www.youtube.com/embed/_hsxirtlE14
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_hsxirtlE14)
+
