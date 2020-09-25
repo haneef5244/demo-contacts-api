@@ -25,6 +25,10 @@ Sample request body :
 
 This end point creates a "people" record in the database
 
+Demo video : 
+
+https://youtu.be/LyiGhCQNywA
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2) https://airasia-demo-contacts-api.herokuapp.com/people/{people_id}/contacts
@@ -36,6 +40,10 @@ Sample request body :
 }
 
 This end point updates the contact of the "people"
+
+Demo video : 
+
+https://youtu.be/TYtumHnXtoA
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 GET method
@@ -52,7 +60,7 @@ This endpoint can be queried with the following query parameters:
 
 Any combination of the above 3 query parameters works, an invalid query parameter will throw an error
 
-Demo video
+Demo video : 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/_hsxirtlE14)
+https://youtu.be/_hsxirtlE14
 
