@@ -14,7 +14,7 @@ The application is deployed in heroku with the following url : https://airasia-d
 POST method
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 There are 2 endpoints for POST method : 
-1) https://airasia-demo-contacts-api.herokuapp.com/people 
+1) https://airasia-demo-contacts-api.herokuapp.com/people \n
 Sample request body : 
 {
 	"name": "James",
